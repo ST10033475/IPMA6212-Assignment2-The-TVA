@@ -1,6 +1,7 @@
 # IT Project Management
 ## Assignment 2 
-### Question 3.2 Issue Log
+## This repository contains files pertaining to The TVA's assignment 2. 
+#### Question 3.2 Issue Log
 
 
 #### The TVA Team Members
